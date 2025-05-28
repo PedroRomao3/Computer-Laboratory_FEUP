@@ -1,0 +1,19 @@
+# Object files
+*.o
+
+# Executable files
+proj/src/proj
+
+# GDB config
+proj/src/.gdbinit
+
+# Group src files by extension
+*/*.o
+*/*/*.o
+
+# Output files
+output/output.txt
+output/trace.txt
+
+.vscode/
+.minix-src/

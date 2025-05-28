@@ -1,0 +1,5 @@
+Failed to read output after 10 attempts over 20ms
+Error: read mouse byte
+
+SEND CHAR FUNC SUCCESS
+state will becom menu
